@@ -126,6 +126,9 @@ function App() {
 
       <footer className="footer">
         <p>© 2026 My Favorite Cafe</p>
+        <p>Created by</p>
+        <p>นายพัทธดนย์ ผ่องอารมย์</p>
+        <p>009 สทส1/1</p>
       </footer>
     </div>
   )
